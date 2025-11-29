@@ -22,8 +22,8 @@
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/rpcrypt-0/LiteAudioScribe.git
-    cd LiteAudioScribe
+    git clone https://github.com/rpcrypt-0/LiteAudioPlayer-Scribe.git
+    cd LiteAudioPlayer-Scribe
     ```
 
 2.  **Install dependencies**
